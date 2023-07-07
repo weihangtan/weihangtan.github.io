@@ -1,24 +1,30 @@
 ---
 layout: page
+
 ---
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+Hi! My name is **Weihang Tan**. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of Dr. Keshab K. Parhi. I received his B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively where I worked under the guidance of Dr. Yingjie Lao. 
+
+My research interests include hardware security and VLSI architecture design for <font color=Blue>fully homomorphic encryption</font>,  <font color=Blue>post-quantum cryptography</font> , and <font color=Blue>digital signal processing systems</font> . 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+- Postdoctoral Research Associate;                        University of Minnesota, Twin Cities                                                **Jan. 2023 - Now**
+  -  Advisor: Dr. Keshab K. Parhi
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- Ph.D. in Electrical Engineering;                              Clemson University                                                                             **Dec. 2022**  
+  - Advisor: Yingjie Lao
+
+- Master of Science in Electrical Engineering;        Clemson University                                                                             **August 2020**  
+  - Advisor: Yingjie Lao
+
+- Bachelor of Science in Electrical Engineering;     Clemson University                                                                             **May 2018**
 
 <br>
 
