@@ -30,8 +30,8 @@ My research interests include hardware security and VLSI architecture design for
   - Advisor: Yingjie Lao
 
 - Bachelor of Science in Electrical Engineering **May 2018**;
-  - Major: Electrical Engineering 
-  - Clemson University                                                                                
+  - Clemson University
+  - Major: Electrical Engineering                                                                          
 
 
 <br>
