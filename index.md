@@ -47,7 +47,7 @@ My research interests include hardware security and VLSI architecture design for
 - [03/2021] One paper is accepted by IEEE Transactions on Circuits and Systems I.
 - [02/2021] One paper is accepted by IEEE Transactions on Circuits and Systems II.
 - [05/2020] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
-- [09/2019] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
-- 
+- [09/2019] One paper is accepted by IEEE International workshop on signal processing systems (SiPS).
+
 
 <br>
