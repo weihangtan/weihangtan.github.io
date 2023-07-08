@@ -14,9 +14,9 @@ owner:
   twitter: wtan_weihang
   # facebook: 
   github: weihangtan
-  linkedin: https://www.linkedin.com/in/weihangtan/
+  linkedin: weihangtan
   scholar: https://scholar.google.com/citations?user=RDg-ujcAAAAJ&hl=en
-  # instagram: lancecai2002
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
