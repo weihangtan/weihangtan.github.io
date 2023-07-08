@@ -7,7 +7,7 @@ layout: page
 
 
 
-Hi! My name is **Weihang Tan**. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of Dr. Keshab K. Parhi. I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of Dr. Yingjie Lao. 
+Hi! My name is **Weihang Tan**. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of [Dr. Keshab K. Parhi](http://www.ece.umn.edu/users/parhi/lab/). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). 
 
 My research interests include hardware security and VLSI architecture design for <font color=Blue>fully homomorphic encryption</font>,  <font color=Blue>post-quantum cryptography</font>, and <font color=Blue>digital signal processing systems</font>. 
 
@@ -15,18 +15,20 @@ My research interests include hardware security and VLSI architecture design for
 
 ## Academic Background
 
-- Postdoctoral Research Associate;                        University of Minnesota, Twin Cities                                                **Jan. 2023 - Now**
+- Postdoctoral Research Associate **Jan. 2023 - Now**;
+  - University of Minnesota, Twin Cities                                                
   -  Advisor: Dr. Keshab K. Parhi
 
-- Ph.D. in Electrical Engineering;                              Clemson University                                                                             **Dec. 2022**  
+- Ph.D. in Electrical Engineering **Dec. 2022**;
+  - Clemson University             
   - Advisor: Yingjie Lao
 
-- Master of Science in Electrical Engineering;        Clemson University                                                                             **August 2020**  
+- Master of Science in Electrical Engineering **August 2020**;                                                                              
+  - Clemson University
   - Advisor: Yingjie Lao
 
-- Bachelor of Science in Electrical Engineering;     Clemson University                                                                             **May 2018**
-
-
+- Bachelor of Science in Electrical Engineering **May 2018**;
+  - Clemson University                                                                                
 
 
 <br>
@@ -37,6 +39,7 @@ My research interests include hardware security and VLSI architecture design for
 
 - [02/2023] One paper is accepted by IEEE Transactions on Computers.
 - [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
+- [01/2023] I will join the University of Minnesota, Twin Cities, as a Postdoctoral Research Associate.
 - [09/2022] I successfully defended my Ph.D. thesis.
 - [07/2022] One paper is accepted by 35th IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFTS).
 - [12/2021] I received the Pramod Subramanyan Presentation Award (Best PhD Presentation Award) at AsianHOST 2021.
@@ -44,5 +47,7 @@ My research interests include hardware security and VLSI architecture design for
 - [03/2021] One paper is accepted by IEEE Transactions on Circuits and Systems I.
 - [02/2021] One paper is accepted by IEEE Transactions on Circuits and Systems II.
 - [05/2020] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
+- [09/2019] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
+- 
 
 <br>
