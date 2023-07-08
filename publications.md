@@ -6,25 +6,27 @@ title: Publications
 
 # Publications
 
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcAAAAJ&hl=en)
 
-## Undergrad Thesis
+## Journal Publications
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
+- **Tan, Weihang**, Antian Wang, Xinmiao Zhang, Yingjie Lao, and Keshab K. Parhi. ["High-Speed VLSI Architectures for Modular Polynomial Multiplication via Fast Filtering and Applications to Lattice-Based Cryptography."](https://ieeexplore.ieee.org/abstract/document/10058585?casa_token=A3NzMumuw1QAAAAA:whw-FNaA7fX7FTB6LmGwoCPgbECNmr9b-Cd5lK1rn0vo1t56x46_9r0Mxm5_a5VqiIvcUg) IEEE Transactions on Computers (2023).
+- Antian Wang, **Tan, Weihang**, Yuejiang Wen, and Yingjie Lao. ["NoPUF: A novel PUF design framework toward modeling attack resistant PUFs."](https://ieeexplore.ieee.org/abstract/document/9386262?casa_token=pY97NQS2NQgAAAAA:cZ1T6CisqEcherRFbLi8H3YM0bcHviVbUWY1d6Bp_lqHyeBugvpeuzMS9M4stYUA50jfdw) IEEE Transactions on Circuits and Systems I: Regular Papers 68, no. 6 (2021): 2508-2521.
+- **Tan, Weihang**, Benjamin M. Case, Antian Wang, Shuhong Gao, and Yingjie Lao. ["High-speed modular multiplier for lattice-based cryptosystems."](https://ieeexplore.ieee.org/abstract/document/9372338?casa_token=ol78pOobJB4AAAAA:OyjLRVsIfNuO8Jg3-9aTo-CWq6Yzmxcn3tfkkDbpLrfR6teaAxv4kxuIYeCmDcZoHv3u3Q) IEEE Transactions on Circuits and Systems II: Express Briefs 68, no. 8 (2021): 2927-2931. [Code](https://github.com/weihangtan/Modular-multiplier)
+- **Tan, Weihang**, Benjamin M. Case, Gengran Hu, Shuhong Gao, and Yingjie Lao. ["An ultra-highly parallel polynomial multiplier for the bootstrapping algorithm in a fully homomorphic encryption scheme."](https://link.springer.com/article/10.1007/s11265-020-01608-0) Journal of Signal Processing Systems 93 (2021): 643-656.
 
-## Conference Paper
+## Conference Publications
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
 ---
 
-## Competition Paper
+## Pre-print Papers
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
+- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).
 
-## Working Manuscript
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
+<br>
+
+
 
