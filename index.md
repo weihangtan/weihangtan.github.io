@@ -20,14 +20,17 @@ My research interests include hardware security and VLSI architecture design for
   -  Advisor: Dr. Keshab K. Parhi
 
 - Ph.D. in Electrical Engineering **Dec. 2022**;
-  - Clemson University             
+  - Clemson University
+  - Major: Electrical Engineering            
   - Advisor: Yingjie Lao
 
 - Master of Science in Electrical Engineering **August 2020**;                                                                              
   - Clemson University
+  - Major: Electrical Engineering 
   - Advisor: Yingjie Lao
 
 - Bachelor of Science in Electrical Engineering **May 2018**;
+  - Major: Electrical Engineering 
   - Clemson University                                                                                
 
 
@@ -46,6 +49,7 @@ My research interests include hardware security and VLSI architecture design for
 - [10/2021] One paper is accepted by Asian Hardware Oriented Security and Trust Symposium (AsianHOST) 2021.
 - [03/2021] One paper is accepted by IEEE Transactions on Circuits and Systems I.
 - [02/2021] One paper is accepted by IEEE Transactions on Circuits and Systems II.
+- [08/2020] I successfully defended my master's thesis.
 - [05/2020] One paper is accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI).
 - [09/2019] One paper is accepted by IEEE International workshop on signal processing systems (SiPS).
 
