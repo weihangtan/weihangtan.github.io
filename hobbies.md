@@ -5,7 +5,7 @@ title: Hobbies
 ---
 
 
-**I really love traveling and swimming. Seeing new places and enjoying nature are my favorite things to do. It's fun, exciting, and makes me feel alive!😁**
+**During my spare time, I love traveling and swimming. Seeing new places and enjoying nature are my favorite things to do. It's fun and exciting!😁**
 
 <center>
 <img src="/images/btm.JPG">
