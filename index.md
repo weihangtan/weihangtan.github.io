@@ -15,22 +15,22 @@ My research interests include hardware security and VLSI architecture design for
 
 ## Academic Background
 
-- Postdoctoral Research Associate **Jan. 2023 - Now**;
-  - University of Minnesota, Twin Cities                                                
+- Postdoctoral Research Associate, **Jan. 2023 - Now**;
+  - [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)                                                
   -  Advisor: Dr. Keshab K. Parhi
 
-- Ph.D. in Electrical Engineering **Dec. 2022**;
-  - Clemson University
+- Ph.D., **Dec. 2022**;
+  - [Clemson University](https://www.clemson.edu/)
   - Major: Electrical Engineering            
   - Advisor: Yingjie Lao
 
-- Master of Science in Electrical Engineering **August 2020**;                                                                              
-  - Clemson University
+- Master of Science, **August 2020**;                                                                              
+  - [Clemson University](https://www.clemson.edu/)
   - Major: Electrical Engineering 
   - Advisor: Yingjie Lao
 
-- Bachelor of Science in Electrical Engineering **May 2018**;
-  - Clemson University
+- Bachelor of Science, **May 2018**;
+  - [Clemson University](https://www.clemson.edu/)
   - Major: Electrical Engineering                                                                          
 
 
