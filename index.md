@@ -3,11 +3,11 @@ layout: page
 
 ---
 
-# 👨‍💻About Me
+# About Me
 
 
 
-Hi! My name is **Weihang Tan**. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of [Dr. Keshab K. Parhi](http://www.ece.umn.edu/users/parhi/lab/). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). 
+Hi! My name is **Weihang Tan** 👨‍💻. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of [Dr. Keshab K. Parhi](http://www.ece.umn.edu/users/parhi/lab/). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of [Dr. Yingjie Lao](https://ylao.people.clemson.edu/). 
 
 My research interests include hardware security and VLSI architecture design for <font color=Blue>fully homomorphic encryption</font>,  <font color=Blue>post-quantum cryptography</font>, and <font color=Blue>digital signal processing systems</font>. 
 
@@ -38,7 +38,7 @@ My research interests include hardware security and VLSI architecture design for
 
 ---
 
-## News and Updates
+## 📮News and Updates
 
 - [02/2023] One paper is accepted by IEEE Transactions on Computers.
 - [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
