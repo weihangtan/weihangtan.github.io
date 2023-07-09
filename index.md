@@ -3,7 +3,7 @@ layout: page
 
 ---
 
-# About Me
+# About Me👨‍💻
 
 
 
@@ -13,7 +13,7 @@ My research interests include hardware security and VLSI architecture design for
 
 <br>
 
-## Academic Background
+## Academic Background🧑‍🎓
 
 - Postdoctoral Research Associate, **Jan. 2023 - Now**;
   - [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)                                                
