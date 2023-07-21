@@ -11,25 +11,37 @@ title: Hobbies
 <img src="/images/btm.JPG">
 </center>
 
+<br>
+
 <center>
 <img src="/images/glaci.JPG">
 </center>
+
+<br>
 
 <center>
 <img src="/images/minne.JPG">
 </center>
 
+<br>
+
 <center>
 <img src="/images/nature.JPG">
 </center>
+
+<br>
 
 <center>
 <img src="/images/teton.JPG">
 </center>
 
+<br>
+
 <center>
 <img src="/images/nc.JPG">
 </center>
+
+<br>
 
 <center>
 <img src="/images/yellow.JPG">
