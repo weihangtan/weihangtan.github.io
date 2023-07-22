@@ -40,6 +40,7 @@ My research interests include hardware security and VLSI architecture design for
 
 ## 📮News and Updates
 
+- [07/2023] One paper is accepted by 42nd International Conference on Computer-Aided Design (ICCAD).
 - [02/2023] One paper is accepted by IEEE Transactions on Computers.
 - [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
 - [01/2023] I will join the University of Minnesota, Twin Cities, as a Postdoctoral Research Associate.
