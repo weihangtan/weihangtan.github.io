@@ -26,8 +26,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Recent Accepted Papers
 
-- Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, "NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation". Accepted by 2023 IEEE/ACM Design Automation Conference (DAC), 2023
-- **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. "KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition." Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
+- Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://60dac.conference-program.com/) Accepted by 2023 IEEE/ACM Design Automation Conference (DAC), 2023
+- **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
 
 
 ## Preprint Papers
