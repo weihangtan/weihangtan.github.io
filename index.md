@@ -22,12 +22,12 @@ My research interests include hardware security and VLSI architecture design for
 - Ph.D., **Dec. 2022**;
   - [Clemson University](https://www.clemson.edu/)
   - Major: Electrical Engineering            
-  - Advisor: Yingjie Lao
+  - Advisor: Dr. Yingjie Lao
 
 - Master of Science, **August 2020**;                                                                              
   - [Clemson University](https://www.clemson.edu/)
   - Major: Electrical Engineering 
-  - Advisor: Yingjie Lao
+  - Advisor: Dr. Yingjie Lao
 
 - Bachelor of Science, **May 2018**;
   - [Clemson University](https://www.clemson.edu/)
