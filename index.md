@@ -57,7 +57,7 @@ My research interests include hardware security and VLSI architecture design for
 
 <br>
 
-<div style="width: 400px; height: 400px;">
+<div style="width: 100px; height: 100px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ocuKrgWRtManHdC7UcFuvhmkdGJ2AYCdQgu-CdoasiM"></script>
 </div>
 
