@@ -56,4 +56,8 @@ My research interests include hardware security and VLSI architecture design for
 
 
 <br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ocuKrgWRtManHdC7UcFuvhmkdGJ2AYCdQgu-CdoasiM"></script>
+
+<div style="width: 400px; height: 400px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ocuKrgWRtManHdC7UcFuvhmkdGJ2AYCdQgu-CdoasiM"></script>
+</div>
+
