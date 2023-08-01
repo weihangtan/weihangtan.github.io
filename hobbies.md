@@ -56,14 +56,11 @@ title: Misc.
 
 <br>
 
-
-
 ## San Francisco, California
 
 <center>
 <img src="/images/SF.jpg">
 </center>
-
 
 
 
