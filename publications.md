@@ -24,6 +24,20 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 - **Tan, Weihang**, Antian Wang, Yunhao Xu, and Yingjie Lao. ["Area-efficient pipelined vlsi architecture for polar decoder."](https://ieeexplore.ieee.org/abstract/document/9154910?casa_token=RRG4D84X9gYAAAAA:f5RW9vBv0TEly2PPZRIeuz8em0lIbT9eVg9vZQb0xen19YhH8v1sY-pNBQZBBS1x8F068g) In 2020 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pp. 352-357. IEEE, 2020.
 - **Tan, Weihang**, Aengran Au, Benjamin Aase, Shuhong Aao, and Yingjie Lao. ["An efficient polynomial multiplier architecture for the bootstrapping algorithm in a fully homomorphic encryption scheme."](https://ieeexplore.ieee.org/abstract/document/9020592?casa_token=nsvG3vHQwjkAAAAA:sU8Pi5H4F41HKl5wK4M4WxTRwGY8Igdslhns5bJiHOv8Za5PTuO1PWb5infO6T5GhMRMbw) In 2019 IEEE International workshop on signal processing systems (SiPS), pp. 85-90. IEEE, 2019.
 
+
+
+<br>
+
+
+
+## Patent
+
+- Keshab K. Parhi, Xinmiao Zhang, **Tan, Weihang**., Antian Wang and Yingjie Lao., Regents of the University of Minnesota, Ohio State Innovation Foundation and Clemson University Research Foundation, 2023. [LOW-LATENCY POLYNOMIAL MODULO MULTIPLICATION OVER RING.](https://www.freepatentsonline.com/y2023/0236801.html) U.S. Patent Application 17/582,560.
+
+<br>
+
+
+
 ## Recent Accepted Papers
 
 - Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://60dac.conference-program.com/) Accepted by 2023 IEEE/ACM Design Automation Conference (DAC), 2023
