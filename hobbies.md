@@ -61,7 +61,7 @@ title: Misc.
 ## San Francisco, California
 
 <center>
-<img src="/images/sf.JPG">
+<img src="/images/SF.jpg">
 </center>
 
 
