@@ -18,6 +18,9 @@ title: Projects
 - Project 2: Efficient and Scalable Privacy-Preserving Neural Network Inference based on Ciphertext-Ciphertext Fully Homomorphic Encryption
 
 Some publications include IEEE Transactions on Circuits and Systems II, Journal of Signal Processing Systems, etc.
+
+Please refer to [Useful resource for homomorphic encryption](https://weihangtan.github.io//blogs/) for more detail.
+
 <br>
 
 
