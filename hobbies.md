@@ -11,7 +11,6 @@ title: Misc.
 <center>
 <img src="/images/btm.JPG">
 </center>
-
 <br>
 
 ## Glacier National Park, Montana
