@@ -8,11 +8,6 @@ To be updated...👨‍💻
 
 
 
-### Overview of Our Works and Contributions
-
-<center>
-<img src="/images/overview.png">
-</center>
 
 ### Homomorphcic Encryption
 

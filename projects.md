@@ -5,6 +5,15 @@ title: Projects
 ---
 
 # Research Projects
+### Overview of Our Works and Contributions
+
+<center>
+<img src="/images/overview.png">
+</center>
+
+
+### 
+
 <br>
 
 #### Hardware/Algorithm Co-optimization for Homomorphic Encryption
