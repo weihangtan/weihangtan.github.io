@@ -6,10 +6,23 @@ title: Resources
 
 To be updated...👨‍💻
 
+### Cryptographic Computing
+
+My research primarily focuses on the hardware and algorithm co-optimization for **<u>C</u>ryptographic <u>C</u>omputing**. 
+
+Cryptographic Computing is a technology that works directly with data secured through cryptography, ensuring that sensitive information remains confidential and is never revealed. Its aim is to ensure the security of data during storage, transmission, and processing. 
+
+#### Introduction: 
+
+<iframe width="1268" height="713" src="https://www.youtube.com/embed/ezpb2jieg9o" title="AWS Cryptographic Computing | Amazon Web Services" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Source: AWS
 
 
 
-### Homomorphcic Encryption
+<br>
+
+### Homomorphic Encryption
 
 #### Introduction:
 
@@ -17,9 +30,11 @@ To be updated...👨‍💻
 
 Source: Intel
 
+<br>
+
 ### Post-quantum Cryptography (PQC)
 
-#### Introduction
+#### Introduction:
 
 <iframe src="https://cdnapisec.kaltura.com/p/684682/sp/68468200/embedIframeJs/uiconf_id/31013851/partner_id/684682?iframeembed=true&playerId=iframeVid&entry_id=1_6apq14jf&flashvars[streamerType]=auto" width="560" height="315" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
