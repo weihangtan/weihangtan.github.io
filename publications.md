@@ -19,8 +19,9 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Conference Publications
 
-- **[AsianHOST'21]** **Tan, Weihang**, Antian Wang, Yingjie Lao, Xinmiao Zhang, and Keshab K. Parhi. ["Pipelined high-throughput NTT architecture for lattice-based cryptography."](https://ieeexplore.ieee.org/abstract/document/9699608) In 2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), pp. 1-4. IEEE, 2021.
+- **[DAC'23]** Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://ieeexplore.ieee.org/abstract/document/10247885)  In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6. IEEE 2023
 - **[DFT'22]** Antian Wang, **Tan, Weihang**, Keshab K. Parhi, and Yingjie Lao. ["Integral Sampler and Polynomial Multiplication Architecture for Lattice-based Cryptography."](https://ieeexplore.ieee.org/abstract/document/9962361) In 2022 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), pp. 1-6. IEEE, 2022.
+- **[AsianHOST'21]** **Tan, Weihang**, Antian Wang, Yingjie Lao, Xinmiao Zhang, and Keshab K. Parhi. ["Pipelined high-throughput NTT architecture for lattice-based cryptography."](https://ieeexplore.ieee.org/abstract/document/9699608) In 2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), pp. 1-4. IEEE, 2021.
 - **[ISVLSI'20]**  **Tan, Weihang**, Antian Wang, Yunhao Xu, and Yingjie Lao. ["Area-efficient pipelined vlsi architecture for polar decoder."](https://ieeexplore.ieee.org/abstract/document/9154910?casa_token=RRG4D84X9gYAAAAA:f5RW9vBv0TEly2PPZRIeuz8em0lIbT9eVg9vZQb0xen19YhH8v1sY-pNBQZBBS1x8F068g) In 2020 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pp. 352-357. IEEE, 2020.
 - **[SiPS'19]**  **Tan, Weihang**, Aengran Au, Benjamin Aase, Shuhong Aao, and Yingjie Lao. ["An efficient polynomial multiplier architecture for the bootstrapping algorithm in a fully homomorphic encryption scheme."](https://ieeexplore.ieee.org/abstract/document/9020592?casa_token=nsvG3vHQwjkAAAAA:sU8Pi5H4F41HKl5wK4M4WxTRwGY8Igdslhns5bJiHOv8Za5PTuO1PWb5infO6T5GhMRMbw) In 2019 IEEE International workshop on signal processing systems (SiPS), pp. 85-90. IEEE, 2019.
 
@@ -40,7 +41,6 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Recent Accepted Papers
 
-- **[DAC'23]** Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://60dac.conference-program.com/) Accepted by 2023 IEEE/ACM Design Automation Conference (DAC), 2023
 - **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
 
 
