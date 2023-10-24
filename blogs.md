@@ -14,7 +14,7 @@ Cryptographic Computing is a technology that works directly with data secured th
 
 #### Introduction: 
 
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/ezpb2jieg9o" title="AWS Cryptographic Computing | Amazon Web Services" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezpb2jieg9o" title="AWS Cryptographic Computing | Amazon Web Services" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Source: AWS
 
@@ -26,7 +26,7 @@ Source: AWS
 
 #### Introduction:
 
-<iframe width="1186" height="667" src="https://www.youtube.com/embed/Be-lJ_wwR_c" title="Intel® Homomorphic Encryption Acceleration Library | Intel Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Be-lJ_wwR_c" title="Intel® Homomorphic Encryption Acceleration Library | Intel Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Source: Intel
 
