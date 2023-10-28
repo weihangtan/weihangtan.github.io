@@ -40,10 +40,16 @@ title: Misc.
 <center>
 <img src="/images/minne.JPG">
 </center>
+<br>
+
+<center>
+<img src="/images/mn2.jpg">
+</center>
 
 <br>
 
 ## Billy Graham Library, Charlotte, North Carolina
+
 <center>
 <img src="/images/nc.JPG">
 </center>
@@ -72,4 +78,3 @@ title: Misc.
 <center>
 <img src="/images/CO.jpg">
 </center>
-
