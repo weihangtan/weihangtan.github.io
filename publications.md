@@ -33,6 +33,8 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Patent
 
+Three patents are currently either in the filing or review process.
+
 - Keshab K. Parhi, Xinmiao Zhang, **Tan, Weihang**., Antian Wang and Yingjie Lao., Regents of the University of Minnesota, Ohio State Innovation Foundation and Clemson University Research Foundation, 2023. [LOW-LATENCY POLYNOMIAL MODULO MULTIPLICATION OVER RING.](https://www.freepatentsonline.com/y2023/0236801.html) U.S. Patent Application 17/582,560.
 
 <br>
@@ -41,12 +43,12 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Recent Accepted Papers
 
-- **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023.
+- **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023. [arXiv link of this paper](https://arxiv.org/abs/2310.04618)
 
 
 ## Preprint Papers
 
-- **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) arXiv preprint arXiv:2303.02237 (2023).
+- **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) arXiv preprint arXiv:2303.02237 (2023). (Under review of IEEE Transactions on Information Forensics & Security)
 
 
 
