@@ -35,7 +35,9 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 Three patents are currently either in the filing or review process.
 
-- Keshab K. Parhi, Xinmiao Zhang, **Tan, Weihang**., Antian Wang and Yingjie Lao., Regents of the University of Minnesota, Ohio State Innovation Foundation and Clemson University Research Foundation, 2023. [LOW-LATENCY POLYNOMIAL MODULO MULTIPLICATION OVER RING.](https://www.freepatentsonline.com/y2023/0236801.html) U.S. Patent Application 17/582,560.
+- Keshab K. Parhi, Xinmiao Zhang, **Tan, Weihang**, Antian Wang and Yingjie Lao., Regents of the University of Minnesota, Ohio State Innovation Foundation and Clemson University Research Foundation, 2023. [LOW-LATENCY POLYNOMIAL MODULO MULTIPLICATION OVER RING.](https://www.freepatentsonline.com/y2023/0236801.html) U.S. Patent Application 17/582,560.
+- Keshab K. Parhi, **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, and Yingjie Lao, Parallel
+  polynomial modular multiplication using NTT and inverse NTT, U.S. Patent Application 18/500,670, Nov. 2, 2023
 
 <br>
 
