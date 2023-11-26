@@ -40,6 +40,7 @@ My research interests include hardware security and VLSI architecture design for
 
 ## 📮News and Updates
 
+- [11/2023] One paper is accepted by IEEE Transactions on Information Forensics and Security.
 - [07/2023] One paper is accepted by 42nd International Conference on Computer-Aided Design (ICCAD).
 - [02/2023] One paper is accepted by IEEE Transactions on Computers.
 - [02/2023] One paper is accepted by 60th Design Automation Conference (DAC).
