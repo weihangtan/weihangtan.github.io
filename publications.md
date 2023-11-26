@@ -44,11 +44,12 @@ Three patents are currently either in the filing or review process.
 ## Recent Accepted Papers
 
 - **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023. [arXiv link of this paper](https://arxiv.org/abs/2310.04618)
+- **[TIFS'23] Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) Accepted by IEEE Transactions on Information Forensics & Security.
 
 
 ## Preprint Papers
 
-- **Tan, Weihang**, Sin-Wei Chiu, Antian Wang, Yingjie Lao, and Keshab K. Parhi. ["PaReNTT: Low-Latency Parallel Residue Number System and NTT-Based Long Polynomial Modular Multiplication for Homomorphic Encryption."](https://arxiv.org/abs/2303.02237) arXiv preprint arXiv:2303.02237 (2023). (Under review of IEEE Transactions on Information Forensics & Security)
+(To be updated)
 
 
 
