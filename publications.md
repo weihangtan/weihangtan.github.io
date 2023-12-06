@@ -20,6 +20,7 @@ Full list in [Google Scholar](https://scholar.google.com/citations?user=RDg-ujcA
 
 ## Conference Publications
 
+- **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10323839) In 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023. 
 - **[DAC'23]** Antian Wang, Bingyin Zhao, **Tan, Weihang**, and Yingjie Lao, ["NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test Vector Generation".](https://ieeexplore.ieee.org/abstract/document/10247885)  In 2023 60th ACM/IEEE Design Automation Conference (DAC), pp. 1-6. IEEE 2023
 - **[DFT'22]** Antian Wang, **Tan, Weihang**, Keshab K. Parhi, and Yingjie Lao. ["Integral Sampler and Polynomial Multiplication Architecture for Lattice-based Cryptography."](https://ieeexplore.ieee.org/abstract/document/9962361) In 2022 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), pp. 1-6. IEEE, 2022.
 - **[AsianHOST'21]** **Tan, Weihang**, Antian Wang, Yingjie Lao, Xinmiao Zhang, and Keshab K. Parhi. ["Pipelined high-throughput NTT architecture for lattice-based cryptography."](https://ieeexplore.ieee.org/abstract/document/9699608) In 2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), pp. 1-4. IEEE, 2021.
@@ -46,7 +47,7 @@ Three patents are currently either in the filing or review process.
 
 ## Recent Accepted Papers
 
-- **[ICCAD'23]** **Tan, Weihang**, Yingjie Lao, and Keshab K. Parhi. ["KyberMat: Efficient Accelerator for Matrix-Vector Polynomial Multiplication in CRYSTALS-Kyber Scheme via NTT and Polyphase Decomposition."](https://iccad.com/accepted-papers) Accepted by 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023. [arXiv link of this paper](https://arxiv.org/abs/2310.04618)
+(To be updated)
 
 
 ## Preprint Papers
