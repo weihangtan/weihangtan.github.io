@@ -7,7 +7,7 @@ layout: page
 
 
 
-Hi! My name is **Weihang Tan** 👨‍💻. I am a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of [Dr. Keshab K. Parhi](http://www.ece.umn.edu/users/parhi/lab/). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of [Dr. Yingjie Lao](https://engineering.tufts.edu/ece/people/faculty/yingjie-lao) (Dr. Lao currently serves as an Associate Professor at Tufts University).  
+Hi! My name is **Weihang Tan** 👨‍💻. I ~~am~~ was a **postdoctoral research associate** in the Department of Electrical and Computer Engineering at the University of Minnesota, Twin Cities, under the supervision of [Dr. Keshab K. Parhi](http://www.ece.umn.edu/users/parhi/lab/). I received my B.S., M.S., and Ph.D. degrees in Electrical Engineering from Clemson University, Clemson, SC, USA, in 2018, 2020, and 2022, respectively, where I worked under the guidance of [Dr. Yingjie Lao](https://engineering.tufts.edu/ece/people/faculty/yingjie-lao) (Dr. Lao currently serves as an Associate Professor at Tufts University).  
 
 My research interests include hardware security and VLSI architecture design for <font color=Blue>fully homomorphic encryption</font>,  <font color=Blue>post-quantum cryptography</font>, and <font color=Blue>digital signal processing systems</font>. I have authored and co-authored over ten research papers, which have been published or accepted in prestigious conferences and journals, including IEEE TIFS, IEEE TC, IEEE TCAS-I, IEEE TCAS-II, DAC'23, ICCAD'23, etc. I co-authored three US patents, all of which are currently in review and filing stages. Furthermore, I serve as a reviewer for major journals and conferences, such as IEEE TCAS-I, IEEE TVLSI, ISCAS, etc.  
 
@@ -15,7 +15,7 @@ My research interests include hardware security and VLSI architecture design for
 
 ## 🧑‍🎓Academic Background
 
-- **Postdoctoral Research Associate**, Jan. 2023 - Now;
+- **Postdoctoral Research Associate**, Jan. 2023 - Dec. 2023;
   - [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)                                                
   -  Advisor: Dr. Keshab K. Parhi
 
@@ -40,6 +40,7 @@ My research interests include hardware security and VLSI architecture design for
 
 ## 📮News and Updates
 
+- [01/2024] One paper is accepted by 2024 IEEE International Symposium on Circuits and Systems (ISCAS). 
 - [11/2023] One paper is accepted by IEEE Transactions on Information Forensics and Security.
 - [07/2023] One paper is accepted by 42nd International Conference on Computer-Aided Design (ICCAD).
 - [02/2023] One paper is accepted by IEEE Transactions on Computers.
