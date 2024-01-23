@@ -1,4 +1,5 @@
 ---
+
 layout: page
 permalink: /hobbies/index.html
 title: Misc.
@@ -40,6 +41,10 @@ title: Misc.
 <center>
 <img src="/images/minne.JPG">
 </center>
+
+
+
+
 <center>
 <img src="/images/mn2.jpg">
 </center>
