@@ -69,6 +69,18 @@ title: Misc.
 <center>
 <img src="/images/SF.jpg">
 </center>
+## 
+
+<center>
+<img src="/images/SF_3.jpg">
+</center>
+
+## 
+
+<center>
+<img src="/images/SF_2.jpg">
+</center>
+
 
 
 <br>
@@ -78,3 +90,27 @@ title: Misc.
 <center>
 <img src="/images/CO.jpg">
 </center>
+<br>
+
+## Salt Lake City, Utah
+
+<center>
+<img src="/images/SLC.jpg">
+</center>
+
+<br>
+
+## Badlands National Park, South Dakota
+
+<center>
+<img src="/images/SD_1.jpg">
+</center>
+
+<br>
+
+## Mount Rushmore National Memorial, South Dakota
+
+<center>
+<img src="/images/SD_2.jpg">
+</center>
+
