@@ -71,14 +71,14 @@ title: Misc.
 <center>
 <img src="/images/SF.jpg">
 </center>
-## 
+
 
 
 
 <center>
 <img src="/images/SF_3.jpg">
 </center>
-## 
+
 
 
 

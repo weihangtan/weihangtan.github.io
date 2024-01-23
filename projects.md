@@ -12,10 +12,6 @@ title: Projects
 </center>
 
 
-### 
-
-
-
 <br>
 
 #### Hardware/Algorithm Co-optimization for Homomorphic Encryption
