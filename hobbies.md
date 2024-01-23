@@ -71,11 +71,14 @@ title: Misc.
 </center>
 ## 
 
+
+
 <center>
 <img src="/images/SF_3.jpg">
 </center>
-
 ## 
+
+
 
 <center>
 <img src="/images/SF_2.jpg">
@@ -113,4 +116,3 @@ title: Misc.
 <center>
 <img src="/images/SD_2.jpg">
 </center>
-
