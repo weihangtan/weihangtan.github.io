@@ -9,14 +9,14 @@ owner:
   name: Weihang Tan
   avatar: weihang.jpg
 #  bio:
-  email: wtan@umn.edu
+  email: wtan.gd@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: wtan_weihang
   # facebook: 
   github: weihangtan
   linkedin: weihangtan
   scholar: https://scholar.google.com/citations?user=RDg-ujcAAAAJ&hl=en
-  # instagram: 
+  instagram: https://www.instagram.com/tan_weihang/
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -48,7 +48,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/Chicago
+timezone: America/Los_Angeles
 future: true
 highlighter: rouge
 # markdown: kramdown
