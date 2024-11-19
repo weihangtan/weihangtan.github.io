@@ -110,11 +110,29 @@ title: Misc.
 <center>
 <img src="/images/SD_1.jpg">
 </center>
-
 <br>
 
 ## Mount Rushmore National Memorial, South Dakota
 
 <center>
 <img src="/images/SD_2.jpg">
+</center>
+<br>
+
+## **Seattle, Washington**
+
+<center>
+<img src="/images/sea_0.jpg">
+</center>
+
+<center>
+<img src="/images/sea_2.jpg">
+</center>
+
+<br>
+
+## **New Mexico**
+
+<center>
+<img src="/images/NM_Mon.jpg">
 </center>
