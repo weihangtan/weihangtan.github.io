@@ -124,10 +124,10 @@ title: Misc.
 <center>
 <img src="/images/sea_0.jpg">
 </center>
-
 <center>
 <img src="/images/sea_2.jpg">
 </center>
+
 <br>
 
 ## **New Mexico**
