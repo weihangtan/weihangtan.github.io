@@ -135,3 +135,10 @@ title: Misc.
 <center>
 <img src="/images/NM_Mon.jpg">
 </center>
+<br>
+
+## **New York City**
+
+<center>
+<img src="/images/ny_0.jpg">
+</center>
